@@ -1,5 +1,5 @@
 I’m @Odyn-x
-I’m currently learning html, css, js 
+- currently learning html, css, js 
 
 
 
